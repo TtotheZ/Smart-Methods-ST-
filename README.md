@@ -4,8 +4,8 @@ first step in task #1 was to download ORACLE's Virtual Machine software on my PC
 which i have downloaded from the official site.
 
 Moving to step two which was to download UBUNTU, I have encountered a couple of issues with installing it and getting it 
-to work properly, firstly I have downloaded version 22.04 which did not work properly with step three of task number 3, then I have installed version 20.04
-Which worked well with step number 3.
+to work properly, I have downloaded version 22.04 which did not work properly, then I have installed version 20.04
+Which worked well on my computer.
 
 Lastly Task #3, installing ROS sotfware on UBUNTU which will allow us to control robotics specifically in this task we will try to contol an arm.
 
